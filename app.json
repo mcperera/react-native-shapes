@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "ShapesApp",
+    "name": "Shapes",
     "slug": "ShapesApp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Shape App Init",
+    "githubUrl": "https://github.com/mcperera/react-native-shapes.git"
   }
 }
